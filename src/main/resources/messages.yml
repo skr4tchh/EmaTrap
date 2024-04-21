@@ -1,0 +1,12 @@
+# Стандартный префикс
+prefix: "&7&l[&6&lТРАПКИ&7&l]&7: "
+errorPermission: "&fУ вас нет прав для использования!"
+
+# Сообщения использования
+help: "&fИспользуйте: /ematrap &e(give/reload)"
+give-usage: "&fИспользуйте: /ematrap give &e<игрок> (plast/trap/diz/dust/smerch) <кол-во>"
+reload: "&aФайлы перезагружены"
+
+# Сообщения игрока
+player:
+  offline: "&cИгрок не найден!"

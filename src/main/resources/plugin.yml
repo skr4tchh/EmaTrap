@@ -1,0 +1,9 @@
+name: EmaTrap
+version: '${version}'
+main: ru.danstudio.ematrap.EmaTrap
+api-version: '1.16'
+depend: [WorldGuard]
+commands:
+  ematrap:
+    aliases:
+      - etrap
